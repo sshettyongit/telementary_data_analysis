@@ -1,2 +1,0 @@
-# telementary_data_analysis
-telementary_data_analysis
